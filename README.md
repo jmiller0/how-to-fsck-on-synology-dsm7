@@ -10,7 +10,7 @@ After the power down the DSM came back and had a warning on the main volume.
 The following steps were obtained by looking at ```/var/log/bash_history.log```.  Before you try any of these steps, attmpt to check the filesystem in Storage Manager, these steps are only if you fail to unmount.
 
 ## Here are the steps performed by the synology tech:
-| WARNING: Perform hese steps at your own risk! Open a support ticket! |
+| WARNING: Perform these steps at your own risk! Open a support ticket! |
 |----------------------------------------------------------------------|
 
 SSH To your synology and sudo to root:
