@@ -1,6 +1,6 @@
 # How to properly do a filesystem check (fsck or e2fck) on Synology DSM 7
 
-Most instructions founds online are for older DSM versions (6).  The following steps were performed by a synology support agent during a support case I created.
+Most instructions founds online are for older DSM versions (6).  The following steps were performed by a synology support agent during a support case I created.  Steps below were performed on DSM 7.1.1-42962 Update 2.
 
 I have a DS1821+ and during a recent storm I lost power.  I have a UPS however it failed to shutdown the synology.  
 NOTE: Make sure and test your UPS shutdown, if you have many disks it can take longer to shutdown than reserved battery capacity.
